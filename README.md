@@ -13,15 +13,15 @@
 
 
 ## General Information
-<ul><li>The goal of this project was to create a dictionary app that allows you to search for any word returning; definition, synonyms, phonetics and images describing the word</li></ul>
+<ul><li>The goal of this project was to create a map app that allows you to easily calculate the distance between places wether on a bike, car or walking.</li></ul>
 
 
 ## Technologies Used
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
-  <li>Dictionary API</li>
-   <li>Images API</li>
+  <li>Leaflet API</li>
+   <li>Geolocation API</li>
   <li>Responsive Web Development</li> </ul>
   
   
@@ -30,7 +30,7 @@
   <li>Axios</li></ul>
   
  ## Framework 
-<ul><li>React.js</li>
+<ul>
   <li>Bootstrap</li></ul>
   
 
@@ -39,7 +39,7 @@
 ## Features
 
 <ul>
-  <li>Search engine ready for searching any word</li>
+  <li>Click anywhere on the map to calculate distances</li>
  
 
 
