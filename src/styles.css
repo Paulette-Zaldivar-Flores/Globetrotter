@@ -55,6 +55,12 @@ a:visited {
   margin-bottom: 4rem;
 }
 
+.click{
+  align-self: center;
+  padding:20px;
+  color: #75BF8F;
+}
+
 .workouts {
   list-style: none;
   height: 77vh;
