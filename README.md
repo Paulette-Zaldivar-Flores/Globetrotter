@@ -1,5 +1,5 @@
 ## 🌏 Globetrotter
-> A map app that allows you to search for distances.
+> A map app that allows you to calculate your workout.
 > Live demo [_here_](visit-globetrotter.netlify.app).
 
 ## Table of Contents
@@ -13,7 +13,7 @@
 
 
 ## General Information
-<ul><li>The goal of this project was to create a map app that allows you to easily calculate the distance between places wether on a bike, car or walking.</li></ul>
+<ul><li>The goal of this project was to create a map app that allows you to easily calculate your workout depending on location</li></ul>
 
 
 ## Technologies Used
