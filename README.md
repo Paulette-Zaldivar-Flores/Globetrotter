@@ -1,6 +1,6 @@
 ## 🌏 Globetrotter
 > A map app that allows you to search for distances.
-> Live demo [_here_](https://promptory.netlify.app/).
+> Live demo [_here_](visit-globetrotter.netlify.app).
 
 ## Table of Contents
 * [General Info](#general-information)
