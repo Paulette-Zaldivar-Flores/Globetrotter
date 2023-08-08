@@ -1,6 +1,6 @@
 ## 🌏 Globetrotter
 > A map app that allows you to calculate your workout.
-> Live demo [_here_](visit-globetrotter.netlify.app).
+> Live demo [_here_](https://visit-globetrotter.netlify.app).
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -44,7 +44,8 @@
 
 
 ## Screenshots
-<img width="1395" alt="Screen Shot 2566-07-25 at 22 00 10" src="https://github.com/Paulette-Zaldivar-Flores/Globetrotter/assets/96970580/d01f9af1-0186-481b-a8c9-fad16d85e0f6">
+
+<img width="1436" alt="Screen Shot 2566-08-08 at 14 56 42" src="https://github.com/Paulette-Zaldivar-Flores/Globetrotter/assets/96970580/eee38065-de49-418e-b396-772887a19140">
 
 
 
